@@ -1,18 +1,99 @@
 {
-  "incidents": [
+  "alerts": [
     {
-      "id": "MIR-0001",
-      "type": "ROAD_CLOSED",
-      "startTime": "2025-06-16T08:00:00Z",
-      "endTime": "2025-06-16T18:00:00Z",
-      "location": {
-        "roadType": "STREET",
-        "from": { "x": -77.031076, "y": -12.123485 },
-        "to": { "x": -77.030000, "y": -12.121900 }
-      },
-      "reportDescription": "Cierre de la Av. Larco por reparación de pista",
+      "country": "PE",
       "city": "Miraflores",
-      "country": "PE"
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 2,
+      "reliability": 10,
+      "type": "HAZARD",
+      "uuid": "23914b3b-4f9f-42fa-803e-ad4858ca7d0c",
+      "roadType": 1,
+      "magvar": 181,
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "street": "José Sabogal",
+      "location": {
+        "x": -77.010861,
+        "y": -12.123499
+      },
+      "pubMillis": 1750099660000
+    },
+    {
+      "country": "PE",
+      "city": "Miraflores",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "ROAD_CLOSED",
+      "uuid": "0db4e8c2-8c05-4ced-a66b-8fcc6fb9b496",
+      "roadType": 1,
+      "magvar": 144,
+      "subtype": "",
+      "street": "Los Capulíes",
+      "location": {
+        "x": -77.009113,
+        "y": -12.121906
+      },
+      "pubMillis": 1750099589000
+    },
+    {
+      "country": "PE",
+      "city": "Miraflores",
+      "reportRating": 1,
+      "reportByMunicipalityUser": "false",
+      "confidence": 2,
+      "reliability": 9,
+      "type": "HAZARD",
+      "uuid": "5dd1fcb5-ff67-42b6-8bd2-84b9fcc79a15",
+      "roadType": 1,
+      "magvar": 262,
+      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+      "street": "Domingo Elías",
+      "location": {
+        "x": -77.026438,
+        "y": -12.11245
+      },
+      "pubMillis": 1750102162000
+    },
+    {
+      "country": "PE",
+      "city": "Miraflores",
+      "reportRating": 2,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "JAM",
+      "uuid": "bf50d04b-5bfd-4d4c-a56e-93dd39b3991b",
+      "roadType": 2,
+      "magvar": 277,
+      "subtype": "JAM_STAND_STILL_TRAFFIC",
+      "street": "Av. Alfredo Benavides",
+      "location": {
+        "x": -77.008464,
+        "y": -12.127711
+      },
+      "pubMillis": 1750100747000
+    },
+    {
+      "country": "PE",
+      "city": "Miraflores",
+      "reportRating": 0,
+      "reportByMunicipalityUser": "false",
+      "confidence": 0,
+      "reliability": 6,
+      "type": "ROAD_CLOSED",
+      "uuid": "8b862d37-d444-4160-9389-6e46d7c83139",
+      "roadType": 1,
+      "magvar": 0,
+      "subtype": "ROAD_CLOSED_EVENT",
+      "street": "Bolognesi",
+      "location": {
+        "x": -77.035853,
+        "y": -12.121216
+      },
+      "pubMillis": 1750100565000
     }
   ]
 }
