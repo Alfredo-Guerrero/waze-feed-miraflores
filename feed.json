@@ -3,21 +3,21 @@
     {
       "country": "PE",
       "city": "Miraflores",
-      "reportRating": 2,
+      "reportRating": 1,
       "reportByMunicipalityUser": "false",
-      "confidence": 2,
-      "reliability": 10,
-      "type": "HAZARD",
-      "uuid": "23914b3b-4f9f-42fa-803e-ad4858ca7d0c",
-      "roadType": 1,
-      "magvar": 181,
-      "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
-      "street": "José Sabogal",
+      "confidence": 0,
+      "reliability": 5,
+      "type": "JAM",
+      "uuid": "298af84c-8726-47c7-a75c-59d6a6b68682",
+      "roadType": 2,
+      "magvar": 56,
+      "subtype": "JAM_STAND_STILL_TRAFFIC",
+      "street": "Av. Monseñor Roca y Boloña",
       "location": {
-        "x": -77.010861,
-        "y": -12.123499
+        "x": -77.009769,
+        "y": -12.118488
       },
-      "pubMillis": 1750099660000
+      "pubMillis": 1750101965000
     }
   ]
 }
