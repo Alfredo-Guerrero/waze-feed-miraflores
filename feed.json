@@ -1,0 +1,18 @@
+{
+  "incidents": [
+    {
+      "id": "MIR-0001",
+      "type": "ROAD_CLOSED",
+      "startTime": "2025-06-16T08:00:00Z",
+      "endTime": "2025-06-16T18:00:00Z",
+      "location": {
+        "roadType": "STREET",
+        "from": { "x": -77.031076, "y": -12.123485 },
+        "to": { "x": -77.030000, "y": -12.121900 }
+      },
+      "reportDescription": "Cierre de la Av. Larco por reparación de pista",
+      "city": "Miraflores",
+      "country": "PE"
+    }
+  ]
+}
