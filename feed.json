@@ -3,19 +3,19 @@
     {
       "country": "PE",
       "city": "Miraflores",
-      "reportRating": 1,
-      "reportByMunicipalityUser": "false",
-      "confidence": 0,
-      "reliability": 5,
+      "reportRating": 2,
+      "reportByMunicipalityUser": "true",
+      "confidence": 2,
+      "reliability": 10,
       "type": "JAM",
       "uuid": "298af84c-8726-47c7-a75c-59d6a6b68682",
       "roadType": 2,
       "magvar": 56,
       "subtype": "JAM_STAND_STILL_TRAFFIC",
-      "street": "Av. Monseñor Roca y Boloña",
+      "street": "Av. Alfredo Benavides",
       "location": {
-        "x": -77.009769,
-        "y": -12.118488
+        "x": -77.016168,
+        "y": -12.126097
       },
       "pubMillis": 1750101965000
     }
